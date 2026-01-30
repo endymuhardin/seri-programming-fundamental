@@ -8,3 +8,4 @@
     * Edit file
     * Simpan file
     * Commit ke repository
+    * Push agar tersimpan di repository github.com
